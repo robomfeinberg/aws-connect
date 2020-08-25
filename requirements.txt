@@ -1,0 +1,10 @@
+requests
+boto3
+botocore
+docutils
+#six
+ipaddress
+tabulate
+awscli
+ec2instanceconnectcli
+gimme-aws-creds

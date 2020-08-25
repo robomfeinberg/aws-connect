@@ -10,6 +10,8 @@ import gimme_aws_creds.ui
 from tabulate import tabulate
 from botocore.exceptions import ClientError, ParamValidationError
 
+# This is a test file to work out using gimme_aws_creds modules
+
 def main():
 
     parser = argparse.ArgumentParser()
